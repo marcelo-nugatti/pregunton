@@ -22,7 +22,3 @@ class Pregunton():
         f = open("data_question.txt", "wb+")
         f.close()
 
-#Falta terminar.
-
-
-
